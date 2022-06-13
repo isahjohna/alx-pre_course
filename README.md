@@ -1,2 +1,2 @@
 My first readme
-The only time I'm allow to update from here
+This is a project on how to setup github accout and my first project
